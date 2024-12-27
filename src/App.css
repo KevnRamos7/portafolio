@@ -1,0 +1,8 @@
+
+
+.bg-purple {
+  background: radial-gradient(circle at center bottom, 
+    #470C5C 0%, 
+    #381A42 50%, 
+    #292929 100%);
+}
